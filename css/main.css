@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.p1 {
+
+	background-image: url(../imgs/p1/bg.jpg);
+}
+.p1 img{
+	width: auto;;
+}
+.red-slide {
+	background: #CA4040;
+}
+.orange-slide {
+	background: #FF8604;
+}
+.swiper-slide {
+	color: #fff;
+	font-size: 36px;
+	width: 100%;
+}
